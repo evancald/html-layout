@@ -1,0 +1,33 @@
+.left {
+  width: 33%;
+  height: 1000px;
+  background-color: aqua;
+  float: left;
+  display: inline-block;
+}
+
+.middle {
+  width: 33%;
+  height: 1000px;
+  background-color: aquamarine;
+  display: inline-block;
+}
+
+.right {
+  width: 33%;
+  height: 1000px;
+  background-color: chartreuse;
+  display: inline-block;
+}
+
+.image {
+  width: 33%;
+  height: 150px;
+  background-color: red;
+  float: right;
+  position: absolute;
+  bottom: -331px;
+  text-align: center;
+  padding-top: 150px;
+  color: white;
+}
